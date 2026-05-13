@@ -9,3 +9,6 @@ Keywords: Fault Diagnosis; Machine Learning; Audio Signals; Ventilation Fan.
 + article has been added.
 + https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jHeEncoAAAAJ&citation_for_view=jHeEncoAAAAJ:d1gkVwhDpl0C
 + https://civilica.com/doc/2170999
+<img width="848" height="536" alt="image" src="https://github.com/user-attachments/assets/4b0ccb75-9e37-4f8b-b453-adc847fe6490" />
+
+
